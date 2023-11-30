@@ -1,0 +1,12 @@
+{
+  "name": "DurlXbot",
+  "version": "1.0.0",
+  "description": "Un bot de WhatsApp que promete ser un éxito",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "nombre-de-tu-dependencia": "^1.0.0"
+  }
+}
